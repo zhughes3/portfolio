@@ -78,7 +78,12 @@ body {
   -webkit-box-shadow: 0 1px 3px #FF3500;
 }
 
+.post > p:last-child {
+  padding-bottom: 25px;
+}
+
 .post > h1 {
+  padding-top: 10px;
   font-size: 200%;
   color: #fff;
   font-weight: 700px;
