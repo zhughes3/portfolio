@@ -1,3 +1,5 @@
 js/jquery*
 fonts/*
 css/font-awesome*
+venv/*
+portfolio/data.db

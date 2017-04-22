@@ -1,0 +1,3 @@
+graft portfolio/templates
+graft portfolio/static
+include portfolio/schema.sql
